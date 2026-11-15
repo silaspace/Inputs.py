@@ -1,3 +1,5 @@
+> [!WARNING]  
+> This repository has been archived, and so is not expected to receive more updates in future.
 # Inputs.py
 
 Inputs.py is a python library designed for UNIX systems that makes use of the curses library to provide more advanced inputs. The curses library allows lower level access to the linux terminal that makes more elegant inputs possible by using hints and allowing raw input.
